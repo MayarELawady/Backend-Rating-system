@@ -1,0 +1,21 @@
+.newsletter_buttonLOG
+{
+	position: absolute;
+	top: 200px;
+	right: 85px;
+	width: 138px;
+	height: 45px;
+	background: #bbe432;
+	color: #1a1a1a;
+	font-size: 14px;
+	font-weight: 700;
+	text-transform: uppercase;
+	border: none;
+	outline: none;
+	cursor: pointer;
+	-webkit-transition: all 200ms ease;
+	-moz-transition: all 200ms ease;
+	-ms-transition: all 200ms ease;
+	-o-transition: all 200ms ease;
+	transition: all 200ms ease;
+}
